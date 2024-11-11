@@ -1,0 +1,11 @@
+2024-11-10 17:29:27,834 - ERROR - Failed to encrypt C:\Users\ankit\Desktop\encryption tool project\filesnormal:[Errno 2] No such file or directory: 'encryption_key.key'
+2024-11-10 17:30:23,151 - ERROR - Failed to encrypt C:\Users\ankit\Desktop\encryption tool project\filesnormal\detail.txt:[Errno 2] No such file or directory: 'encryption_key.key'
+2024-11-10 17:31:29,572 - ERROR - Failed to encrypt C:\Users\ankit\Desktop\encryption tool project\detail.txt:[Errno 2] No such file or directory: 'encryption_key.key'
+2024-11-10 17:34:21,108 - INFO - FileC:\Users\ankit\Desktop\encryption tool project\detail.txt encrypted successfully and saved toencrypted_files\detail.txt.
+2024-11-11 02:23:27,604 - INFO - FileC:\Users\ankit\Desktop\encryption tool project\encrypted_files\detail.txt decrypted succesfully.
+2024-11-11 02:56:00,347 - INFO - FileC:\Users\ankit\Desktop\files_files\New Text Document888745578.txt encrypted successfully and saved toencrypted_files\New Text Document888745578.txt.
+2024-11-11 02:56:00,347 - INFO - FileC:\Users\ankit\Desktop\files_files\New Text Document9999999.txt encrypted successfully and saved toencrypted_files\New Text Document9999999.txt.
+2024-11-11 02:56:00,347 - INFO - FileC:\Users\ankit\Desktop\files_files\folder1\New Text Document1.txt encrypted successfully and saved toencrypted_files\New Text Document1.txt.
+2024-11-11 02:56:00,363 - INFO - FileC:\Users\ankit\Desktop\files_files\folder1\New Text Document2.txt encrypted successfully and saved toencrypted_files\New Text Document2.txt.
+2024-11-11 02:56:00,366 - INFO - FileC:\Users\ankit\Desktop\files_files\folder1\New folder444\New Text Document4444.txt encrypted successfully and saved toencrypted_files\New Text Document4444.txt.
+2024-11-11 02:56:00,366 - INFO - All files in C:\Users\ankit\Desktop\files_files encrypted succesfully.
