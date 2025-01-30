@@ -40,7 +40,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/file-encryption-tool.git
+git clone https://github.com/ankitankit-cyber/file_encryption_tool.git
 cd file-encryption-tool
 Run the Tool: Launch the tool by running:
 
